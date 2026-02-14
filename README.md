@@ -6,11 +6,7 @@ A multi-page Power BI analytics dashboard using AI-generated ticketing, social m
 This project analyzes key drivers of ticket revenue and fan satisfaction using synthetic data modeled around a professional basketball franchise.
 
 The dashboard explores three primary dimensions:
-
   Opponent Impact on Game-Level Revenue
-  
   Social Media Engagement and Revenue Trends
-  
   Location-Based Differences in Fan Satisfaction
-
-  The goal was to identify patterns that influence ticket demand, revenue generation, and overall fan experience.
+The goal was to identify patterns that influence ticket demand, revenue generation, and overall fan experience.
