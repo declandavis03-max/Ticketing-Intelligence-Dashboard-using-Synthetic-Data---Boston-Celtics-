@@ -1,18 +1,14 @@
-<p align="center">
-  <img src="images.bi.overview.png" width="100%">
-</p>
-
-
-
 # Ticketing and Intrelligence Dashboard for the Boston Celtics
+Hi! This project is  multi-page Power BI analytics dashboard using AI-generated ticketing, social media, and fan survey data. Used modeled datasets in MySQL, SQL joins, and DAX measures to analyze relationships between fan engagement, revenue, and game demand. 
 
-
-
-
-
+Table of Contents
+1. Introduction 
+2. Data 
+3. Process/Overview
+4. insights
 
 # Introduction
-A multi-page Power BI analytics dashboard using AI-generated ticketing, social media, and fan survey data; modeled datasets in MySQL, SQL joins, and DAX measures to analyze relationships between fan engagement, revenue, and game demand.
+
 
 The Project was to explore:
 1) Location of the fan impacts overall satifaction
