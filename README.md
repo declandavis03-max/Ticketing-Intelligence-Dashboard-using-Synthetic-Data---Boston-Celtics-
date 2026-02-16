@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="images/bi-overview-banner.png" width="100%">
+  <img src="images/imagesbi-overview-banner
+.png" width="100%">
 </p>
 
 
