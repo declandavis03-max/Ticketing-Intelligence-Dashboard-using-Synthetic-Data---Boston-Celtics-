@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="images/imagesbi-overview-banner
-.png" width="100%">
+  <img src="images.bi.overview.png" width="100%">
 </p>
+
 
 
 # Ticketing and Intrelligence Dashboard for the Boston Celtics
