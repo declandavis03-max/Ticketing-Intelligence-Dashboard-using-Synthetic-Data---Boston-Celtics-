@@ -34,5 +34,13 @@ Used AI generated data from Chat GPT. Prompted CHAT GPT to create four datasets.
 
 # Process and Overview
 
+Step 1: Data Generation
+Used AI to generate Synthetic Data of realistic fan datasets
+- Fan Data: Name, Age, City, Email, Fan_ID, Season Ticket Holder (Yes or No)
+- Social Media Metrics: Date of Post, Engagement Rate, Followers, Posts, Video Views
+- Survey Data: Fan_ID, Game Satisfaction, NPS, Parking Satisfaction, Comments
+-  
+
+
 
 
