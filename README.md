@@ -6,7 +6,7 @@ Table of Contents
 2. Data
 3. Process/Overview
 4. Dashboards Built
-5. insights
+5. Overall Insights
 
 # Introduction
 
@@ -39,7 +39,11 @@ Used AI to generate Synthetic Data of realistic fan datasets
 - Fan Data: Name, Age, City, Email, Fan_ID, Season Ticket Holder (Yes or No)
 - Social Media Metrics: Date of Post, Engagement Rate, Followers, Posts, Video Views
 - Survey Data: Fan_ID, Game Satisfaction, NPS, Parking Satisfaction, Comments
--  
+- Ticket Sales Data:
+
+# Dashbboards Built
+
+# Overall Inisghts 
 
 
 
