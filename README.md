@@ -43,7 +43,7 @@ Used AI to generate Synthetic Data of realistic fan datasets
 
 # Dashbboards Built
 
-# Overall Inisghts 
+# Overall Insights 
 
 
 
