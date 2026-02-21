@@ -2,11 +2,11 @@
 Hi! This project is  multi-page Power BI analytics dashboard using AI-generated ticketing, social media, and fan survey data. Used modeled datasets in MySQL, SQL joins, and DAX measures to analyze relationships between fan engagement, revenue, and game demand. 
 
 Table of Contents
-## 1. Introduction 
-## 2. Data
-## 3. Process/Overview
-## 4. Dashboards Built
-## 5. Overall Insights
+1. Introduction 
+2. Data
+3. Process/Overview
+4. Dashboards Built
+5. Overall Insights
 
 # Introduction
 
