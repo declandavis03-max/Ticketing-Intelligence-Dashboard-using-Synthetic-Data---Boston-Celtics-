@@ -70,7 +70,7 @@ Step 2: SQL Database
         opponent VARCHAR(100),
         attendance INT,
         revenue FLOAT
-    ); ```
+    ); 
 
 
 Why this Works?
