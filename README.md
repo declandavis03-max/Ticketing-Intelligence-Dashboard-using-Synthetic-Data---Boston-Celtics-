@@ -48,13 +48,12 @@ Step 2: SQL Database
 - Data Base Creation
   The data sets were created into a MYSQL database: 
   
-  CREATE DATABASE IF NOT EXISTS ticketing_analytics;
-  USE ticketing_analytics;
+      -CREATE DATABASE IF NOT EXISTS ticketing_analytics;
+      USE ticketing_analytics;
 
   This ensured all projects were isolated in a structure schema.
 
-- Table Design
-  Two Tables were created to support ticketing and social analytics:
+- Table Design: Two Tables were created to support ticketing and social analytics:
   ![Database Creation SQL](images/database-creation-sql.png)
 
   
