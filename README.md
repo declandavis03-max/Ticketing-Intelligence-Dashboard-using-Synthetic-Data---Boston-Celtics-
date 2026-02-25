@@ -74,10 +74,10 @@ Step 2: SQL Database
 
 
 Why this Works?
-        - Explicit data types ensure clean modeling.
-        - game_id acts as a primary key.
-        - Date serves as the relational join key between ticket and social data.
-        - This structure mimics how professional sports organizations store event-level data.
+  - Explicit data types ensure clean modeling.
+  - game_id acts as a primary key.
+  - Date serves as the relational join key between ticket and social data.
+  - This structure mimics how professional sports organizations store event-level data.
 
 
 Step 3: SQL Joins and Queries
