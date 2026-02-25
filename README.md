@@ -81,12 +81,33 @@ Why this Works?
 
 
 Step 3: SQL Joins and Queries
+  CSV files were directly imported into MySQL using: 
+  
+### Step 3: SQL Joins and Queries
+
+CSV files were directly imported into MySQL.
+
+```sql
+LOAD DATA INFILE '.../social_metrics.csv'
+INTO TABLE social_metrics
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE '.../ticket_sales.csv'
+INTO TABLE ticket_sales
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+IGNORE 1 ROWS;
+```
+What this Shows:
+- Basic ETL (Extract, Transform,Load)
+- Structured data ingestion
+- Preparing analysis-ready relational tables
 
 Step 4: Data Modeling 
 
-Step 5: Dashboard Design 
 
-Step 6: Overall Insights
 
 # Dashbboards Built
 
