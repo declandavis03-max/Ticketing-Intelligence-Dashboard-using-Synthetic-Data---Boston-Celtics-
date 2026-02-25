@@ -34,7 +34,7 @@ Used AI generated data from Chat GPT. Prompted CHAT GPT to create four datasets.
 3) survey.csv
 4) ticket_sales.csv
 
-# Process and Overview
+# Technical Stack
 
 Step 1: Data Generation
 Used AI to generate Synthetic Data of realistic fan datasets
