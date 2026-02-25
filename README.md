@@ -53,11 +53,27 @@ Step 2: SQL Database
 
   This ensured all projects were isolated in a structure schema.
 
-- Table Design: Two Tables were created to support ticketing and social analytics:
-  ![Database Creation SQL](images/database-creation-sql.png)
+  Table Design: Two Tables were created to support ticketing and social analytics:
+  ```
+  sql
+    CREATE TABLE social_metrics (
+        date DATE,
+        followers INT,
+        engagement_rate FLOAT,
+        posts INT,
+        video_views INT
+    );
+    
+    CREATE TABLE ticket_sales (
+        game_id INT PRIMARY KEY,
+        date DATE,
+        opponent VARCHAR(100),
+        attendance INT,
+        revenue FLOAT
+    ); ```
 
-  
-    - Why this Works?
+
+Why this Works?
         - Explicit data types ensure clean modeling.
         - game_id acts as a primary key.
         - Date serves as the relational join key between ticket and social data.
