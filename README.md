@@ -5,7 +5,6 @@ Hi! This project is  multi-page Power BI analytics dashboard using AI-generated 
 
 - [Introduction](#Introduction)
 - [Data](#Data)
-- [Process/Overview](#Dashboards-Built)
 - [Technical Stack](#technical-stack)
 - [Overall Insights](#Overall-Insights)
 
