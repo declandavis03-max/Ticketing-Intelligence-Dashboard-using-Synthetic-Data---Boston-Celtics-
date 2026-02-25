@@ -55,7 +55,7 @@ Step 2: SQL Database
 
 - Table Design
   Two Tables were created to support ticketing and social analytics:
-  [images](images/create-tables-sql.png)
+  [images](images/database-creation-sql.png)
 
   
     - Why this Works?
