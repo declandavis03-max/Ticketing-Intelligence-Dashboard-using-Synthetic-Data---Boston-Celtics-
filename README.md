@@ -27,7 +27,7 @@ End to End Analytics Pipeline:
 Data Creation --> SQL Database --> SQL Joins and Queries --> Dashboard Deisgn --> Overall Insights
 ```
 
-On top of the project scope, this was one of my first porjects I have created from the ground up. I have gained insightful knowledge on how to work with datasets, write productive queries to gain information, and work with Power BI to turn those insights into visualizations to properly display information. I am pleasently pleased with this project, and am hopeful to build more projects with much greater detail! Open to any singihts on how to imporve my processes!
+On top of the project scope, this was one of my first porjects I have created from the ground up. I have gained insightful knowledge on how to work with datasets, write productive queries to gain information, and work with Power BI to turn those insights into visualizations to properly display information. I am pleasently pleased with this project, and am hopeful to build more projects with much greater detail! Open to any insights on how to improve my skills!
 
 # Data 
 Used AI generated data from Chat GPT. Prompted CHAT GPT to create four datasets. Datasets are all CSV files and have over 100 rows of data each set:
