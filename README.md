@@ -123,6 +123,12 @@ What this Join Achieves:
 - Enables direct correlation analysis
 - Produces a unified dataset for Power BI modeling
 - Reduces transformation complexity inside the BI layer
+This query powers the Social Media Engagement vs Revenue dashboard.
+
+- Disclaimer:
+      -The Fan and Survey datasets were imported directly into Power BI as CSV files.
+      -The Social Media and Ticket Sales datasets were intentionally processed in MySQL to demonstrate SQL database design, table creation, data ingestion, and relational joins prior to BI modeling.
+      -This approach allowed me to showcase both SQL data engineering skills and Power BI analytics development within the same project.
 
 # Dashboards Built
 
