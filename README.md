@@ -135,7 +135,7 @@ Disclaimer:
 
 # Dashboards Built
 
-<img src="images/location-satisfaction-dashboard.png">
+<img src="images/ location-satisfaction-dashboard.png">
 
 <img src="images/opponent-impact-dashboard.png">
 
