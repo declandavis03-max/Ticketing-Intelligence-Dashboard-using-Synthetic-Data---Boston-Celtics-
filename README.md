@@ -147,9 +147,9 @@ Disclaimer:
   
 - Social engagement and revenue move inversely across the season: Revenue peaks early then declines, while engagement rate trends upward toward season's end, the disconnect between digital interest and ticket revenue may be worth exploring for future marketing timing.
   
--Parking satisfaction is dragging down NPS — an overall NPS of -44 is significantly negative, and the scatter plot shows a clear relationship between parking satisfaction and NPS scores across cities -->  this is the clearest area for operational improvement.
+- Parking satisfaction is dragging down NPS — an overall NPS of -44 is significantly negative, and the scatter plot shows a clear relationship between parking satisfaction and NPS scores across cities -->  this is the clearest area for operational improvement.
 
--Cambridge fans are the most satisfied with parking (3.16) despite being a smaller season ticket group (19 holders). This can be a potential conversion opportunity
+- Cambridge fans are the most satisfied with parking (3.16) despite being a smaller season ticket group (19 holders). This can be a potential conversion opportunity
 
 
 
